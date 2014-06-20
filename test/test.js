@@ -1,6 +1,6 @@
-var SimpleTest = require("./lib/simple_test.js");
+var SimpleTest = require("simpletestjs");
 
 SimpleTest.run({
     filename: "suite-?.js",
-    path: "/../spec/"
+    path: "test/spec/"
 });

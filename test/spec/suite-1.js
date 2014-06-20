@@ -1,4 +1,4 @@
-var SimpleTest = require("./../lib/simple_test.js").SimpleTest,
+var SimpleTest = require("simpletestjs").SimpleTest,
     FileGroup = require("./../../filegroup.js");
 
 SimpleTest("FileGroupJS test cases", function (suite) {

@@ -1,5 +1,5 @@
 {
-    "name": "FileGroupJS",
+    "name": "filegroupjs",
     "description": "File Group Utility",
     "author": {
         "name": "Ali Najafizadeh",
@@ -8,9 +8,16 @@
     },
     "version": "0.0.1",
     "dependencies": {},
+    "devDependencies": {
+        "simpletestjs": "0.0.2"
+    },
     "repository": {
         "type": "git",
         "url": "git://github.com/alinz/FileGroupJS.git"
     },
+    "scripts": {
+        "test": "cd test; node test.js"
+    },
+    "main": "filegroup.js",
     "engine": "node >= 0.10.0"
 }

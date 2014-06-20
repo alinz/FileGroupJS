@@ -1,0 +1,16 @@
+{
+    "name": "FileGroupJS",
+    "description": "File Group Utility",
+    "author": {
+        "name": "Ali Najafizadeh",
+        "email": "a.najafizadeh@gmail.com",
+        "url": "http://blog.unilius.com"
+    },
+    "version": "0.0.1",
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/alinz/FileGroupJS.git"
+    },
+    "engine": "node >= 0.10.0"
+}
